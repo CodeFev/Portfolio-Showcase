@@ -15,11 +15,11 @@
   <p><i>Login-Seite mit tokenbasiertem Zugangssystem.</i></p>
 </div>
 
-<img width="100%" alt="Startseite" src="LINK_ZUM_SCREENSHOT_HIER" />
-<img width="100%" alt="Über mich" src="LINK_ZUM_SCREENSHOT_HIER" />
-<img width="100%" alt="Bildungsweg" src="LINK_ZUM_SCREENSHOT_HIER" />
-<img width="100%" alt="Erfahrungen" src="LINK_ZUM_SCREENSHOT_HIER" />
-<img width="100%" alt="Kontakt" src="LINK_ZUM_SCREENSHOT_HIER" />
+<img width="100%" alt="Startseite" src="https://github.com/user-attachments/assets/1dcebc6d-1a14-4009-8f27-e79323121d14" />
+<img width="100%" alt="Über mich" src="https://github.com/user-attachments/assets/8f983b80-b88d-4729-8647-74de7a82ec13" />
+<img width="100%" alt="Bildungsweg" src="https://github.com/user-attachments/assets/84c7134d-aaa0-437b-9d75-e1437ab6d4d6" />
+<img width="100%" alt="Erfahrungen" src="https://github.com/user-attachments/assets/7c941133-6ca9-423c-a30d-4f820ed8b016" />
+<img width="100%" alt="Kontakt" src="https://github.com/user-attachments/assets/8477f933-5175-40ab-b0ad-bb46a48f2fa9" />
 
 > Persönliche Daten (E-Mail, Telefon, Zugangstoken) sind in den Screenshots bewusst geschwärzt, da dies ein öffentliches Showcase-Repository ist.
 
