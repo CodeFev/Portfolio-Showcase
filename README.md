@@ -10,8 +10,7 @@
 
 <!-- Screenshots hier per Drag & Drop in den GitHub-Editor einfügen -->
 <div align="center">
-  <img src="![Uploading Screenshot 2026-07-17 060838.png…]()
-" width="100%" alt="Login-Seite" />
+  <img src="https://github.com/user-attachments/assets/95bbb3ea-b356-46a9-b093-e0e9376007c6" width="100%" alt="Login-Seite" />
   <br>
   <p><i>Login-Seite mit tokenbasiertem Zugangssystem.</i></p>
 </div>
@@ -62,4 +61,4 @@ Das Portfolio dient als zentrale Anlaufstelle für Projektanfragen und Bewerbung
 | **Fonts** | Google Fonts (Plus Jakarta Sans) |
 
 ---
-*Hinweis: Der vollständige Quellcode liegt in einem privaten Repository, da er Zugangs- und Sicherheitslogik enthält. Dieses Repository dient als reines Showcase.*<img width="3839" height="1898" alt="Screenshot 2026-07-17 060838" src="https://github.com/user-attachments/assets/95bbb3ea-b356-46a9-b093-e0e9376007c6" />
+*Hinweis: Der vollständige Quellcode liegt in einem privaten Repository, da er Zugangs- und Sicherheitslogik enthält. Dieses Repository dient als reines Showcase.*
