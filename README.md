@@ -8,18 +8,24 @@
 
 ## 🖼️ Showcase
 
-<!-- Screenshot hier per Drag & Drop in den GitHub-Editor einfügen -->
+<!-- Screenshots hier per Drag & Drop in den GitHub-Editor einfügen -->
 <div align="center">
-  <img src="LINK_ZUM_SCREENSHOT_HIER" width="100%" alt="Portfolio Startseite" />
+  <img src="![Uploading Screenshot 2026-07-17 060838.png…]()
+" width="100%" alt="Login-Seite" />
   <br>
   <p><i>Login-Seite mit tokenbasiertem Zugangssystem.</i></p>
 </div>
 
-<img width="100%" alt="Portfolio Übersicht" src="LINK_ZUM_SCREENSHOT_HIER" />
-<img width="100%" alt="Erfahrungen Sektion" src="LINK_ZUM_SCREENSHOT_HIER" />
+<img width="100%" alt="Startseite" src="LINK_ZUM_SCREENSHOT_HIER" />
+<img width="100%" alt="Über mich" src="LINK_ZUM_SCREENSHOT_HIER" />
+<img width="100%" alt="Bildungsweg" src="LINK_ZUM_SCREENSHOT_HIER" />
+<img width="100%" alt="Erfahrungen" src="LINK_ZUM_SCREENSHOT_HIER" />
+<img width="100%" alt="Kontakt" src="LINK_ZUM_SCREENSHOT_HIER" />
+
+> Persönliche Daten (E-Mail, Telefon, Zugangstoken) sind in den Screenshots bewusst geschwärzt, da dies ein öffentliches Showcase-Repository ist.
 
 ### Live ansehen:
-🔗 [DEINE-URL-HIER.workers.dev](https://okarakas.de)
+🔗 [okarakas.de](https://okarakas.de)
 
 ---
 
@@ -56,4 +62,4 @@ Das Portfolio dient als zentrale Anlaufstelle für Projektanfragen und Bewerbung
 | **Fonts** | Google Fonts (Plus Jakarta Sans) |
 
 ---
-*Hinweis: Der vollständige Quellcode liegt in einem privaten Repository, da er Zugangs- und Sicherheitslogik enthält. Dieses Repository dient als reines Showcase.*
+*Hinweis: Der vollständige Quellcode liegt in einem privaten Repository, da er Zugangs- und Sicherheitslogik enthält. Dieses Repository dient als reines Showcase.*<img width="3839" height="1898" alt="Screenshot 2026-07-17 060838" src="https://github.com/user-attachments/assets/95bbb3ea-b356-46a9-b093-e0e9376007c6" />
